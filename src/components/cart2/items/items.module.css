@@ -1,0 +1,22 @@
+.cardbody {
+  width: 100%;
+}
+
+.img {
+  overflow: hidden;
+}
+
+.img img {
+  border-radius: 5px;
+  width: 210px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.img img:hover {
+  transform: scale(1.05);
+}
+
+.btn:hover {
+  color: none;
+}

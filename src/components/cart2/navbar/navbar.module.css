@@ -1,0 +1,9 @@
+.btn {
+  font-size: 25px !important;
+}
+
+.badge {
+  font-size: 14px !important;
+  right: 2px;
+  border-radius: 50% !important;
+}
